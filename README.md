@@ -1,10 +1,10 @@
 # FL Studio Discord RPC
 
 Shows in Discord:
-  Playing FL Studio
-  Working on name.flp
-  Total time spent on project - %h %m
-  Github button
+  1. Playing FL Studio
+  2. Working on name.flp
+  3. Total time spent on project - %h %m
+  4. Github button
   
 ## How to build
 
