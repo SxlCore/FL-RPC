@@ -18,7 +18,7 @@ Copy version.dll file from "../build/Release/" into FL Studio (next to FL64.exe)
 
 Start FL Studio normally. RPC appears in Discord automatically (even if you have changed project).
 
-## Discord Dev Portal (custom ur rpc pics or name)
+## Discord Dev Portal (customize ur rpc pics or name)
 To display your fl icon instead of mine, you should go here:
 1. https://discord.com/developers/applications -> Create ur own application -> Set application name and image as you wish -> Then just save it
 2. After that, go to Rich Presence -> Art Assets -> and upload image with key: fl_studio
